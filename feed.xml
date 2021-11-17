@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Take Time blog</title>
+    <link href="https://www.taketime98.github.io/take-time-blog/feed.xml" rel="self" />
+    <link href="https://www.taketime98.github.io/take-time-blog" />
+    <updated>2021-11-15T15:53:59+07:00</updated>
+    <author>
+        <name>Tran Xuan Anh</name>
+    </author>
+    <id>https://www.taketime98.github.io/take-time-blog</id>
+
+    <entry>
+        <title>New Release Take Time UI UX</title>
+        <author>
+            <name>Tran Xuan Anh</name>
+        </author>
+        <link href="https://www.taketime98.github.io/take-time-blog/new-release-take-time-ui-ux.html"/>
+        <id>https://www.taketime98.github.io/take-time-blog/new-release-take-time-ui-ux.html</id>
+
+        <updated>2021-11-15T15:25:15+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.taketime98.github.io/take-time-blog/media/posts/2/Taketime-web.jpg" alt="take-time-UIUX" />
+                     Hay day take time 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.taketime98.github.io/take-time-blog/media/posts/2/Taketime-web.jpg" alt="take-time-UIUX" />
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://www.taketime98.github.io/take-time-blog/media/posts/2/apple2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.taketime98.github.io/take-time-blog/media/posts/2/responsive/apple2-xs.png 300w ,https://www.taketime98.github.io/take-time-blog/media/posts/2/responsive/apple2-sm.png 480w ,https://www.taketime98.github.io/take-time-blog/media/posts/2/responsive/apple2-md.png 768w ,https://www.taketime98.github.io/take-time-blog/media/posts/2/responsive/apple2-lg.png 1024w ,https://www.taketime98.github.io/take-time-blog/media/posts/2/responsive/apple2-xl.png 1360w ,https://www.taketime98.github.io/take-time-blog/media/posts/2/responsive/apple2-2xl.png 1600w"  height="1080" width="1080" alt="" />
+      
+    </figure>
+
+    <figure class="blockquote">
+      <blockquote>Hay day</blockquote>
+      <figcaption>take time</figcaption>
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>First Test Post</title>
+        <author>
+            <name>Tran Xuan Anh</name>
+        </author>
+        <link href="https://www.taketime98.github.io/take-time-blog/first-test-post.html"/>
+        <id>https://www.taketime98.github.io/take-time-blog/first-test-post.html</id>
+            <category term="Graphic Design"/>
+
+        <updated>2021-11-15T15:53:59+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.taketime98.github.io/take-time-blog/media/posts/1/cactus-2.png" alt="" />
+                     “A drawing is simply a line going for a walk,” the inspiring artist Paul Klee once said. And that’s what we are going to share in today’s post with a collection of line art illustrations by tubik artist Arthur Avakyan, elegantly taking lines for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.taketime98.github.io/take-time-blog/media/posts/1/cactus-2.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://www.taketime98.github.io/take-time-blog/media/posts/1/lineart-animals.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.taketime98.github.io/take-time-blog/media/posts/1/responsive/lineart-animals-xs.png 300w ,https://www.taketime98.github.io/take-time-blog/media/posts/1/responsive/lineart-animals-sm.png 480w ,https://www.taketime98.github.io/take-time-blog/media/posts/1/responsive/lineart-animals-md.png 768w ,https://www.taketime98.github.io/take-time-blog/media/posts/1/responsive/lineart-animals-lg.png 1024w ,https://www.taketime98.github.io/take-time-blog/media/posts/1/responsive/lineart-animals-xl.png 1360w ,https://www.taketime98.github.io/take-time-blog/media/posts/1/responsive/lineart-animals-2xl.png 1600w"  alt="" width="1600" height="1200"></figure>
+<p>“A drawing is simply a line going for a walk,” the inspiring artist Paul Klee once said. And that’s what we are going to share in today’s post with a collection of line art illustrations by tubik artist Arthur Avakyan, elegantly taking lines for a walk in company with good ideas. Enjoy and get inspired!</p>
+<h2>Lineart Animals</h2>
+<p>This illustration set is devoted to the world of animals and pets, created in the artistic style of line illustration based on smooth and elegant curves and bright color spots, adding even more emotion and expressiveness to artworks.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

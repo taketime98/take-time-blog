@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<?xml-stylesheet type="text/xsl" href="https://www.taketime98.github.io/take-time-blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-  <loc>https://www.taketime.agency/take-time-blog/</loc>
-  <lastmod>2021-11-16T00:38:39+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://www.taketime98.github.io/take-time-blog/</loc>
 </url>
 <url>
-  <loc>https://www.taketime.agency/take-time-blog/tags/graphic-design/</loc>
-  <lastmod>2021-11-16T00:38:39+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.taketime98.github.io/take-time-blog/authors/take-time/</loc>
 </url>
 <url>
-  <loc>https://www.taketime.agency/take-time-blog/new-release-take-time-ui-ux.html</loc>
-  <lastmod>2021-11-16T00:38:39+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.taketime98.github.io/take-time-blog/first-test-post.html</loc>
+<lastmod>2021-11-15T15:53:59+07:00</lastmod>
+<image:image>
+<image:loc>https://www.taketime98.github.io/take-time-blog/media\posts\1/cactus-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.taketime98.github.io/take-time-blog/media\posts\1/lineart-animals.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
-  <loc>https://www.taketime.agency/take-time-blog/authors/take-time/</loc>
-  <lastmod>2021-11-16T00:38:39+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.taketime98.github.io/take-time-blog/googled005dbe0e1cedaf9.html</loc>
 </url>
 <url>
-  <loc>https://www.taketime.agency/take-time-blog/first-test-post.html</loc>
-  <lastmod>2021-11-16T00:38:39+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.taketime98.github.io/take-time-blog/new-release-take-time-ui-ux.html</loc>
+<lastmod>2021-11-15T15:25:15+07:00</lastmod>
+<image:image>
+<image:loc>https://www.taketime98.github.io/take-time-blog/media\posts\2/Taketime-web.jpg</image:loc>
+<image:title><![CDATA[take-time-UIUX]]></image:title>
+</image:image>
 </url>
-
-
+<url>
+<loc>https://www.taketime98.github.io/take-time-blog/tags/graphic-design/</loc>
+</url>
 </urlset>

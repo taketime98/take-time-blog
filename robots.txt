@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://www.taketime98.github.io/take-time-blog/sitemap.xml
