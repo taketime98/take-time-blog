@@ -3,12 +3,118 @@
     <title>Take Time blog</title>
     <link href="https://www.taketime.agency/take-time-blog/feed.xml" rel="self" />
     <link href="https://www.taketime.agency/take-time-blog" />
-    <updated>2021-11-26T16:06:43+07:00</updated>
+    <updated>2021-11-27T09:25:21+07:00</updated>
     <author>
         <name>Tran Xuan Anh</name>
     </author>
     <id>https://www.taketime.agency/take-time-blog</id>
 
+    <entry>
+        <title> Làm thế nào để có bố cục tốt và sáng tạo hơn</title>
+        <author>
+            <name>Tran Xuan Anh</name>
+        </author>
+        <link href="https://www.taketime.agency/take-time-blog/lam-the-nao-de-co-bo-cuc-tot-va-sang-tao-hon.html"/>
+        <id>https://www.taketime.agency/take-time-blog/lam-the-nao-de-co-bo-cuc-tot-va-sang-tao-hon.html</id>
+            <category term="Graphic Design"/>
+
+        <updated>2021-11-27T09:25:21+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.taketime.agency/take-time-blog/media/posts/9/architecture-proposal01.webp" alt="" />
+                     Trong bài đăng này, chúng ta sẽ thảo luận tại sao các nhà thiết kế đồ họa chuyên nghiệp luôn đưa ra nhiều lựa chọn cho khách hàng và dạy bạn làm thế nào để cải thiện thành phần và bố cục trong các&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.taketime.agency/take-time-blog/media/posts/9/architecture-proposal01.webp" alt="" />
+                
+  <p>
+    Trong bài đăng này, chúng ta sẽ thảo luận tại sao các nhà thiết kế đồ họa chuyên nghiệp luôn đưa ra nhiều lựa chọn cho khách hàng và dạy bạn làm thế nào để cải thiện thành phần và bố cục trong các thiết kế của bạn!
+  </p>
+
+  <p>
+    Việc tạo nhiều phiên bản không cần phải tốn nhiều thời gian. Có được sự hiểu biết vững chắc về các ứng dụng và lý thuyết thiết kế sẽ cho phép bạn tạo ra nhiều thiết kế trong thời gian những người khác phải tạo ra một thiết kế mới!
+  </p>
+
+  <p>
+    Dưới đây, chúng tôi tổng hợp một số mẹo và thủ thuật bạn nên xem xét để cải thiện bố cục thiết kế của mình!
+  </p>
+
+  <p>
+    <b>1. Bắt đầu với các bản phác thảo&nbsp;</b>
+  </p>
+
+  <p>
+    Luôn bắt đầu với việc tạo ra các bản phác thảo thô về những ý tưởng mà bạn sẽ phát triển. Bạn không thay đổi nội dung mà đang xem xét vị trí đặt các yếu tố hiện có. Tạo tối thiểu ba bản phác thảo hình thu nhỏ trước khi thực sự bắt đầu tạo chúng trong ứng dụng!
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://www.taketime.agency/take-time-blog/media/posts/9/skecthes.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.taketime.agency/take-time-blog/media/posts/9/responsive/skecthes-xs.jpg 300w ,https://www.taketime.agency/take-time-blog/media/posts/9/responsive/skecthes-sm.jpg 480w ,https://www.taketime.agency/take-time-blog/media/posts/9/responsive/skecthes-md.jpg 768w ,https://www.taketime.agency/take-time-blog/media/posts/9/responsive/skecthes-lg.jpg 1024w ,https://www.taketime.agency/take-time-blog/media/posts/9/responsive/skecthes-xl.jpg 1360w ,https://www.taketime.agency/take-time-blog/media/posts/9/responsive/skecthes-2xl.jpg 1600w"  height="667" width="800" alt="" />
+      
+    </figure>
+
+  <p>
+    <b>2. Sử dụng không gian âm</b>
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://www.taketime.agency/take-time-blog/media/posts/9/gallery/2.png" data-size="824x577">
+        <img loading="lazy" src="https://www.taketime.agency/take-time-blog/media/posts/9/gallery/2-thumbnail.png" height="538" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://www.taketime.agency/take-time-blog/media/posts/9/gallery/2-2.png" data-size="824x577">
+        <img loading="lazy" src="https://www.taketime.agency/take-time-blog/media/posts/9/gallery/2-2-thumbnail.png" height="538" width="768" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    <b>3. Xem xét các thành phần như Gutter / Creep / Margins</b>
+  </p>
+
+  <p>
+    Với các tài liệu in, bạn không thể để nội dung ở gần giữa của cuốn sách (được gọi là rãnh) vì đây là nơi sẽ có đường khâu và nó sẽ bị méo và khó đọc. Bạn cũng nên tránh để các phần quan trọng của hình ảnh nằm ngay trung tâm bố cục.
+  </p>
+
+  <p>
+    <b>4. Tạo cấu trúc phân cấp&nbsp;</b>
+  </p>
+
+  <p>
+    Theo ví dụ ở trên, hãy chú ý cách tôi đưa ra tuyên bố bằng cách tăng kích thước của dòng tiêu đề, để dòng tiêu đề chạy trên toàn bộ hai trang. Sử dụng Kerning  (Alt / Opt + Mũi tên trái / phải) để kéo văn bản vào hoặc ra, cho phép bạn tạo khoảng cách tùy chỉnh giữa các chữ cái / từ!
+  </p>
+
+  <p>
+    <b>5. Entry points / Drop Caps</b>
+  </p>
+
+  <p>
+    Sử dụng Drop Cap có thể giúp gắn dòng tiêu đề với nội dung và tạo ra một điểm nhập cảnh thú vị cho người đọc!&nbsp;&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://www.taketime.agency/take-time-blog/media/posts/9/3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.taketime.agency/take-time-blog/media/posts/9/responsive/3-xs.png 300w ,https://www.taketime.agency/take-time-blog/media/posts/9/responsive/3-sm.png 480w ,https://www.taketime.agency/take-time-blog/media/posts/9/responsive/3-md.png 768w ,https://www.taketime.agency/take-time-blog/media/posts/9/responsive/3-lg.png 1024w ,https://www.taketime.agency/take-time-blog/media/posts/9/responsive/3-xl.png 1360w ,https://www.taketime.agency/take-time-blog/media/posts/9/responsive/3-2xl.png 1600w"  height="577" width="824" alt="" />
+      
+    </figure>
+
+  <p>
+    <b>6. Tạo độ tương phản</b>
+  </p>
+
+  <p>
+    Sự tương phản rất quan trọng trong bất kỳ thiết kế nào vì nó tạo ra sự thú vị cho thị giác và thiết lập nhịp độ. Điều này có thể bao gồm từ việc làm nổi bật đơn giản đến việc sử dụng không gian tiêu cực. Bạn không muốn có quá nhiều yếu tố bận rộn ở một nơi, vì vậy hãy tạo không gian thoáng đãng bên cạnh một vùng văn bản dày đặc.
+<br>
+<br>Nếu bạn đang sử dụng chữ đậm để đánh dấu các phần của văn bản và phông chữ có nhiều tùy chọn tạo kiểu (ví dụ: demi, đậm, v.v.), đừng chỉ tăng một kích cỡ&nbsp; mà hãy nhân đôi chúng để có đủ độ tương phản giữa văn bản thông thường và văn bản được đánh dấu các bộ phận quan trọng.&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>10 phẩm chất để trở thành một nhà thiết kế đồ họa giỏi</title>
         <author>
