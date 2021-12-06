@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.taketime.agency/take-time-blog/creativity-is-not-cheap.html",
+            "url": "https://www.taketime.agency/take-time-blog/creativity-is-not-cheap.html",
+            "title": "Creativity is not cheap",
+            "summary": " Cách mà nhiều người trong chúng ta (bao gồm cả tôi) học cách trở thành một người sáng tạo, và chúng bắt nguồn từ: • Thử làm / sai lầm • Thực tập / Làm việc miễn phí • YouTube Bạn phải xem hướng&hellip;",
+            "content_html": "\n  <p>\n    Cách mà nhiều người trong chúng ta (bao gồm cả tôi) học cách trở thành một người sáng tạo, và chúng bắt nguồn từ:\n<br>\n<br>• Thử làm / sai lầm\n<br>• Thực tập / Làm việc miễn phí\n<br>• YouTube\n<br>\n<br>Bạn phải xem  hướng dẫn hàng giờ đồng hồ, xem review đánh giá các thiết bị, nghiên cứu các nhà thiết kế khác, tất cả để tìm hiểu sự khác biệt giữa Helvetica và Neue Haas Grotesk.\n<br>\n<br>Những gì bạn đã làm không phải chỉ là biết một chút phần mềm. Bạn đã phải hoàn thiện kỹ năng của mình  qua khoảng thời gian làm việc chăm chỉ, cống hiến và luyện tập liên tục.\n<br>\n<br>Vì vậy đừng để nó rẻ rúng.\n<br>\n<br>Sự sáng tạo luôn được yêu cầu cao. Các công ty và tổ chức cần tài sản sáng tạo để tiếp thị chúng, giáo dục người khác về sản phẩm của họ và gia tăng giá trị cho khách hàng của họ.\n<br>\n<br>Thế giới chúng ta đang sống này đòi hỏi sự sáng tạo hơn bất kỳ thứ gì sẵn có, bất kỳ  người nào trong chúng ta cũng có thể sáng tạo ra chúng hay sao?!\n<br>\n<br>Điều đó có nghĩa là gì?\n<br>\n<br>Điều này có nghĩa là khi bạn đã trích dẫn một dự án và một khách hàng muốn đánh giá thấp bạn, hãy sẵn sàng gạt họ sang một bên và chuyển sang khách hàng tiềm năng tiếp theo.\n<br>\n<br>Nếu bạn lo lắng sẽ không có khách hàng tiếp theo, thì hãy ngừng chờ họ đến với bạn và bắt đầu gửi email/gửi tin nhắn trực tiếp.\n<br>\n<br>Quan điểm của tôi là: Sáng tạo không hề rẻ và khi nhu cầu cao như hiện nay, không có nhiều sân chơi cho những người làm nghề tự do sáng tạo đang dần chết đói :))\n  </p>",
+            "image": "https://www.taketime.agency/take-time-blog/media/posts/11/image_processing20190813-27622-1wfnycs.png",
+            "author": {
+                "name": "Tran Xuan Anh"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-06T22:33:11+07:00",
+            "date_modified": "2021-12-06T22:33:11+07:00"
+        },
+        {
             "id": "https://www.taketime.agency/take-time-blog/5-quy-tac-vang-se-cai-thien-thiet-ke-cua-ban.html",
             "url": "https://www.taketime.agency/take-time-blog/5-quy-tac-vang-se-cai-thien-thiet-ke-cua-ban.html",
             "title": "5 Quy tắc vàng sẽ cải thiện thiết kế của bạn",
@@ -152,22 +167,6 @@
             ],
             "date_published": "2021-11-15T15:25:15+07:00",
             "date_modified": "2021-11-15T15:25:15+07:00"
-        },
-        {
-            "id": "https://www.taketime.agency/take-time-blog/first-test-post.html",
-            "url": "https://www.taketime.agency/take-time-blog/first-test-post.html",
-            "title": "First Test Post",
-            "summary": " “A drawing is simply a line going for a walk,” the inspiring artist Paul Klee once said. And that’s what we are going to share in today’s post with a collection of line art illustrations by tubik artist Arthur Avakyan, elegantly taking lines for&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.taketime.agency/take-time-blog/media/posts/1/lineart-animals.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.taketime.agency/take-time-blog/media/posts/1/responsive/lineart-animals-xs.png 300w ,https://www.taketime.agency/take-time-blog/media/posts/1/responsive/lineart-animals-sm.png 480w ,https://www.taketime.agency/take-time-blog/media/posts/1/responsive/lineart-animals-md.png 768w ,https://www.taketime.agency/take-time-blog/media/posts/1/responsive/lineart-animals-lg.png 1024w ,https://www.taketime.agency/take-time-blog/media/posts/1/responsive/lineart-animals-xl.png 1360w ,https://www.taketime.agency/take-time-blog/media/posts/1/responsive/lineart-animals-2xl.png 1600w\"  alt=\"\" width=\"1600\" height=\"1200\"></figure>\n<p>“A drawing is simply a line going for a walk,” the inspiring artist Paul Klee once said. And that’s what we are going to share in today’s post with a collection of line art illustrations by tubik artist Arthur Avakyan, elegantly taking lines for a walk in company with good ideas. Enjoy and get inspired!</p>\n<h2>Lineart Animals</h2>\n<p>This illustration set is devoted to the world of animals and pets, created in the artistic style of line illustration based on smooth and elegant curves and bright color spots, adding even more emotion and expressiveness to artworks.</p>",
-            "image": "https://www.taketime.agency/take-time-blog/media/posts/1/cactus-2.png",
-            "author": {
-                "name": "Tran Xuan Anh"
-            },
-            "tags": [
-                   "Graphic Design"
-            ],
-            "date_published": "2021-11-15T15:14:20+07:00",
-            "date_modified": "2021-11-15T15:53:59+07:00"
         }
     ]
 }
