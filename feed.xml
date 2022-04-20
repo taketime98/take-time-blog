@@ -3,7 +3,7 @@
     <title>Take Time blog</title>
     <link href="https://www.taketime.agency/take-time-blog/feed.xml" rel="self" />
     <link href="https://www.taketime.agency/take-time-blog" />
-    <updated>2022-04-20T11:25:40+07:00</updated>
+    <updated>2022-04-20T11:29:28+07:00</updated>
     <author>
         <name>Tran Xuan Anh</name>
     </author>
@@ -18,10 +18,10 @@
         <id>https://www.taketime.agency/take-time-blog/summer-beach-presets.html</id>
             <category term="Photography"/>
 
-        <updated>2022-04-20T11:25:40+07:00</updated>
+        <updated>2022-04-20T11:29:28+07:00</updated>
             <summary>
                 <![CDATA[
-                     &lt;script src="https://gumroad.com/js/gumroad.js"&gt;&lt;/script&gt; &lt;a class="gumroad-button" href="https://taketime5121.gumroad.com/l/cedye"&gt;Buy on&lt;/a&gt;
+                     Buy on
                 ]]>
             </summary>
         <content type="html">
@@ -62,8 +62,8 @@
     </figure>
     </div>
   </div>
-<pre class="line-numbers  language-html"><code>&lt;script src="https://gumroad.com/js/gumroad.js"&gt;&lt;/script&gt;
-&lt;a class="gumroad-button" href="https://taketime5121.gumroad.com/l/cedye"&gt;Buy on&lt;/a&gt;</code></pre>
+<div><script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://taketime5121.gumroad.com/l/cedye">Buy on</a></div>
             ]]>
         </content>
     </entry>
