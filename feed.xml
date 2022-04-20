@@ -3,7 +3,7 @@
     <title>Take Time blog</title>
     <link href="https://www.taketime.agency/take-time-blog/feed.xml" rel="self" />
     <link href="https://www.taketime.agency/take-time-blog" />
-    <updated>2022-04-20T11:32:45+07:00</updated>
+    <updated>2022-04-20T11:36:16+07:00</updated>
     <author>
         <name>Tran Xuan Anh</name>
     </author>
@@ -18,14 +18,16 @@
         <id>https://www.taketime.agency/take-time-blog/summer-beach-presets.html</id>
             <category term="Photography"/>
 
-        <updated>2022-04-20T11:32:45+07:00</updated>
+        <updated>2022-04-20T11:36:16+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.taketime.agency/take-time-blog/media/posts/15/ipiccy_image-1-2.jpg" alt="" />
                      Loading... 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://www.taketime.agency/take-time-blog/media/posts/15/ipiccy_image-1-2.jpg" alt="" />
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://www.taketime.agency/take-time-blog/media/posts/15/ipiccy_image-1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.taketime.agency/take-time-blog/media/posts/15/responsive/ipiccy_image-1-xs.jpg 300w ,https://www.taketime.agency/take-time-blog/media/posts/15/responsive/ipiccy_image-1-sm.jpg 480w ,https://www.taketime.agency/take-time-blog/media/posts/15/responsive/ipiccy_image-1-md.jpg 768w ,https://www.taketime.agency/take-time-blog/media/posts/15/responsive/ipiccy_image-1-lg.jpg 1024w ,https://www.taketime.agency/take-time-blog/media/posts/15/responsive/ipiccy_image-1-xl.jpg 1360w ,https://www.taketime.agency/take-time-blog/media/posts/15/responsive/ipiccy_image-1-2xl.jpg 1600w"  height="2000" width="2000" alt="" />
